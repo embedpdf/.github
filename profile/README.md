@@ -1,4 +1,7 @@
 # EmbedPDF — Open Source PDF Viewer
+![aa611cd8-3da9-44ad-9687-5964e1d45ae8](https://github.com/user-attachments/assets/bf45dac8-00a6-485a-bcbd-5cb61eb2564a)
+
+
 EmbedPDF makes it easy to embed PDF files into any website or app — lightweight, fully customizable, and framework-agnostic. Get started now!
 
 Explore our main projects:
