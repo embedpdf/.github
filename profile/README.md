@@ -1,7 +1,5 @@
 # EmbedPDF: open-source PDF viewer for JavaScript
 
-![EmbedPDF](https://github.com/user-attachments/assets/03e47ff9-221a-42cc-9e4c-f74fa9de2090)
-
 EmbedPDF is a PDF viewer you add to any web app, in plain HTML, React, Vue, Svelte or Angular.
 People read, annotate, fill in, sign and redact PDFs right in the browser. It's open source,
 under the Apache License 2.0.
