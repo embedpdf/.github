@@ -1,21 +1,37 @@
-# EmbedPDF — Open Source PDF Viewer
-![aa611cd8-3da9-44ad-9687-5964e1d45ae8](https://github.com/user-attachments/assets/03e47ff9-221a-42cc-9e4c-f74fa9de2090)
+# EmbedPDF: open-source PDF viewer for JavaScript
 
+EmbedPDF is a PDF viewer you add to any web app, in plain HTML, React, Vue, Svelte or Angular.
+People read, annotate, fill in, sign and redact PDFs right in the browser. It's open source,
+under the Apache License 2.0.
 
+- **Docs:** [www.embedpdf.com/docs](https://www.embedpdf.com/docs)
+- **Live demo:** [www.embedpdf.com/demo](https://www.embedpdf.com/demo)
+- **Discord:** [join the community](https://discord.gg/mHHABmmuVU)
 
-EmbedPDF makes it easy to embed PDF files into any website or app — lightweight, fully customizable, and framework-agnostic. Get started now!
+## Projects
 
-Explore our main projects:
-
- - 📄 [**EmbedPDF Viewer**](https://github.com/embedpdf/embed-pdf-viewer) — A fast, accurate, and MIT-licensed PDF viewer for the web. Powered by WebAssembly and works with any JavaScript framework.
- - 📱 **Mobile SDK (In Development)** — Bringing EmbedPDF to Android and iOS apps.
+- 📄 **[embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer):** the viewer, the headless
+  components for building your own, and the engine. Every `@embedpdf/*` package lives here.
+- ⚙️ **[runtime](https://github.com/embedpdf/runtime):** EmbedPDF Runtime, the PDF engine
+  underneath. PDFium, extended for editing and built to run anywhere.
 
 ## Why EmbedPDF?
-Open Source and MIT-Licensed
 
-- Framework-Agnostic (React, Vue, Svelte, Vanilla JS)
-- Powered by PDFium WebAssembly for fast and accurate rendering
-- Customizable with a growing plugin ecosystem
+- **Runs in the browser.** The engine is WebAssembly, so the PDF stays on the user's computer.
+- **Any framework.** One viewer for plain HTML, React, Vue, Svelte and Angular.
+- **Complete.** Annotations, forms, signatures, redaction, measurement, organizing pages and search.
+- **Yours to shape.** Use the ready-made viewer, or build your own interface from the headless
+  components. Every feature is a plugin you can turn off.
+- **Open source.** Apache 2.0, for any app, commercial or not.
 
-## Community
-Check out our [Documentation](https://www.embedpdf.com/docs)!
+## Made by CloudPDF
+
+EmbedPDF is made by [CloudPDF](https://www.cloudpdf.com). CloudPDF is the same viewer with the
+engine on a server, for access control, live collaboration and sharing links. Its server SDKs are
+here too: [TypeScript](https://github.com/embedpdf/cloudpdf-sdk-typescript),
+[Python](https://github.com/embedpdf/cloudpdf-sdk-python),
+[Go](https://github.com/embedpdf/cloudpdf-sdk-go),
+[Java](https://github.com/embedpdf/cloudpdf-sdk-java),
+[.NET](https://github.com/embedpdf/cloudpdf-sdk-dotnet),
+[PHP](https://github.com/embedpdf/cloudpdf-sdk-php) and
+[Ruby](https://github.com/embedpdf/cloudpdf-sdk-ruby).
